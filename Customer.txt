@@ -1,0 +1,6 @@
+Username    Password
+karthik		12345
+ramesh		123
+akshith		aki2003
+Varshith		Varshith@123
+Pruthvi		Varshith
